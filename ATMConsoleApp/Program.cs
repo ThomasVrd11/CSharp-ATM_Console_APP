@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-// * This is the main class of the program
-// * This class is used to run the program
 
 public class cardHolder
 {
@@ -11,8 +9,6 @@ public class cardHolder
     string firstName;
     string lastName;
 
-    // * Constructor for the cardHolder class
-    // * This method is used to create a new cardHolder object
     public cardHolder(string cardNumber, int pin, string firstName, string lastName, double balance)
     {
         this.cardNumber = cardNumber;
@@ -21,8 +17,6 @@ public class cardHolder
         this.firstName = firstName;
         this.lastName = lastName;
     }
-    // * Getters for the cardHolder class
-    // * These methods are used to get the values of the cardHolder class
     public string getCardNumber()
     {
         return cardNumber;
@@ -43,8 +37,6 @@ public class cardHolder
     {
         return lastName;
     }
-    // * Setters for the cardHolder class
-    // * These methods are used to set the values of the cardHolder class
     public void setNumber(string newCardNumber)
     {
         cardNumber = newCardNumber;
