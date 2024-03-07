@@ -1,0 +1,15 @@
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/bin/Debug/net8.0/ATMConsoleApp
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/bin/Debug/net8.0/ATMConsoleApp.deps.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/bin/Debug/net8.0/ATMConsoleApp.runtimeconfig.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/bin/Debug/net8.0/ATMConsoleApp.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/bin/Debug/net8.0/ATMConsoleApp.pdb
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ATMConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ATMConsoleApp.AssemblyInfoInputs.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ATMConsoleApp.AssemblyInfo.cs
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ATMConsoleApp.csproj.CoreCompileInputs.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ATMConsoleApp.sourcelink.json
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ATMConsoleApp.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/refint/ATMConsoleApp.dll
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ATMConsoleApp.pdb
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ATMConsoleApp.genruntimeconfig.cache
+/Users/thomasviard/Projets perso/CSharp-Perso/CSharp-ATM_Console_APP/ATMConsoleApp/obj/Debug/net8.0/ref/ATMConsoleApp.dll
